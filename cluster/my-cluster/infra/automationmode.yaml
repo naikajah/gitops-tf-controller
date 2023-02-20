@@ -6,7 +6,7 @@ metadata:
 spec:
   interval: 1m
   approvePlan: auto
-  path: ./helloworld
+  path: ./
   sourceRef:
     kind: GitRepository
     name: helloworld
