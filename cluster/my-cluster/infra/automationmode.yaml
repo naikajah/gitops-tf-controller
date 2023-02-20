@@ -5,7 +5,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m
-  approvePlan: ""
+  approvePlan: "plan-main-d9c5cc348e"
   path: ./
   sourceRef:
     kind: GitRepository
